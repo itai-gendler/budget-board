@@ -1,0 +1,19 @@
+{
+  "scenarioKinds": [
+    {
+      "id": "primary",
+      "name": "Primary",
+      "description": "Established successful outcomes."
+    },
+    {
+      "id": "validation",
+      "name": "Validation",
+      "description": "Refused input, conflicts and unavailable controls."
+    },
+    {
+      "id": "edge",
+      "name": "Edge",
+      "description": "Partial, unattended or exceptional outcomes."
+    }
+  ]
+}
