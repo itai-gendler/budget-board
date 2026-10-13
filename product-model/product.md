@@ -53,3 +53,7 @@
 # Budget Board
 
 A personal finance workspace for recording Accounts, Assets and Transactions, planning monthly category Budgets and account-linked Goals, importing records, applying classification and recurring rules, synchronizing financial providers and interpreting financial results through Trends and configurable dashboard widgets.
+
+## Intent
+
+Give people a self-hosted alternative to Mint, the discontinued personal finance app, for tracking monthly spending and working towards financial goals.
